@@ -210,6 +210,7 @@ public class MainActivity extends AppCompatActivity {
         str += "<font color='#FF6A6A'>设置红色</font><br>";
         str += "<a href=\"https://www.baidu.com\">百度链接</a><br>";
         str += "<img src='https://img.alicdn.com/imgextra/i3/2454452051/TB2DH1acYFkpuFjy1XcXXclapXa_!!2454452051.jpg'/>";
+        str += "<img src='http://o7q4a8b8y.bkt.clouddn.com/Fg3XGF-fQ6Fx9gX8inNcL33L9ITu' />";
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
             // flags
